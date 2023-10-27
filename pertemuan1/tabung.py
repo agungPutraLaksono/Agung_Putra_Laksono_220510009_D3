@@ -1,7 +1,7 @@
 #Program menghitung luas dan volume tabung
 
 # Pertemuan 1
-# Programmer: Misnen
+# Programmer: Agung Putra Laksono
 # Tanggal:  22 Oktober 2023
 
 
